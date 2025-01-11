@@ -34,3 +34,4 @@ For example, it could involve building a model to classify whether a photo is of
 | 11\. Saving and loading the best performing model | Since we might want to use our model for later, let's save it and make sure it loads back in correctly.                                                     |
 
 Reference: [ZTM](https://www.learnpytorch.io/03_pytorch_computer_vision/)
+I'm a fan of ZTM 🎉💡
